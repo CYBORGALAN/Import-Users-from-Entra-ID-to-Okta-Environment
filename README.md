@@ -16,7 +16,7 @@ Imported users Alan Gobre, Daniel Olojo, and Lovelyne Laryea via a CSV file from
 </p>
 <br />
 <p>
-<img width="713" height="245" alt="image" src="https://github.com/user-attachments/assets/5d6ae63f-df3e-495c-bb29-b852b2a9c0a2" />
+<img width="975" height="377" alt="Screenshot 2026-09-11 141603" src="https://github.com/user-attachments/assets/5d80ea7c-fbfc-4a76-9ccd-75f58e3ba7fd" />
 >
 </p>
 <p>
