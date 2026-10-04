@@ -20,6 +20,6 @@ Imported users Alan Gobre, Daniel Olojo, and Lovelyne Laryea via a CSV file from
 >
 </p>
 <p>
-Imported from Azure to Okta Platform.
+Imported from Azure to Okta Platform
 </p>
 <br />
